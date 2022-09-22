@@ -1,0 +1,34 @@
+pwd 
+(Ver em que pasta está)
+
+cd .. 
+(Voltar uma pasta de onde está)
+
+cd 
+(Voltar para o começo [raiz])
+
+cd pasta/
+(Acessar uma pasta)
+
+ls 
+(Ver tudo dentro da pasta que está)
+
+mkdir nome
+(Criar pasta)
+
+cd diretório/pasta
+(Acessar uma pasta em específico)
+
+rmdir nome
+(Excluir pasta)
+
+clear
+(Limpar todos os códigos)
+
+mv nome1 [antigo] nome2 [novo]
+(Renomear pasta)
+
+
+
+
+
