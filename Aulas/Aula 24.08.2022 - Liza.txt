@@ -1,0 +1,19 @@
+A internet tem muitos meios de se entender ou de se explicar. Na parte dos códigos, tem o HTTP, que significa Hyper Text Transfer Protocol, que é quando ocorre a transferência de códigos para o outro setor, que é o GET, que também pode se chamar LOGIN, que é quando você pega uma informação e ele te dar um retorno. Também temos o HTML, que significa Hiper Text Mockup Language, que é uma textura de linguagens codificadas. Também tem o TLS, que significa Transport Layer Security, que é um meio de transporte seguro para você fazer para enviar seus dados.
+A sequência é Dados, em seguida Transporte, logo em seguida vem a Internet e depois a Rede. Você também pode utilizar também estes métodos na teoria dos códigos, que tem o GET, quando pega os dados, tem o POST onde posta, solicita ou envia os dados, o PUT onde faz a modificação ou alteração, como de uma senha por exemplo e tem o DELETE, onde você deleta ou remove aqueles dados ou enfim.
+URL também é o URI, porém, o URI seria mais para os países de fora, um país do lado oriental.
+
+
+Entrada: Abra os olhos Processamento: Se levante Saída: Vá até o banheiro
+Entrada: Entre no banheiro Processamento: Tire toda sua roupa Saída: Tome banho, se seque e se arrume
+Entrada: Prepare um lanche Processamento: Coma o lanche Saída: Escove os dentes
+Entrada: Vá até a saída da porta Processamento: Segure na maçaneta e a gire Saída: Abra a porta
+Entrada: Tranque a porta de casa com a chave após sair Processamento: Vá para o ponto de ônibus e o espere Saída: Dê sinal para o ônibus parar que passa em frente ao Banco que deseja ir
+Entrada: Entre no ônibus após ele parar Processamento: Pague a passagem Saída: Espere chegar em seu ponto
+Entrada: Saia do ônibus em seu ponto Processamento: Vá até o banco Saída: Segure na maçaneta, a gire e abra
+Entrada: Entre no banco Processamento: Vá até o caixa eletrônico Saída: Retire o cartão do bolso
+Entrada: Insira o cartão no caixa eletrônico Processamento: Selecione a opção de saque, escolha a quantidade do dinheiro e digite a senha Saída: Retire seu dinheiro.
+Entrada: Guarde o dinheiro e o cartão no bolso Processamento: Vá até a porta Saída: Segure na maçaneta e saia.
+Entrada: Vá até seu ponto de ônibus após sair do banco Processamento: Espere o seu ônibus Saída: Faça o sinal para o ônibus que quer pegar parar
+Entrada: Pegue o ônibus Processamento: Pague a passagem Saída: Espere chegar em seu ponto próximo de sua residência
+Entrada: Desça no ponto que é próximo de sua residência Processamento: Vá até sua casa Saída: Pegue na maçaneta de sua casa
+Entrada: Entre em sua casa Processamento: Guarde o dinheiro Saída: Descanse

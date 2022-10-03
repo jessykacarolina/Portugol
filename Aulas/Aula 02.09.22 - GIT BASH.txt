@@ -1,0 +1,20 @@
+ls = ver todas as pastas em lista
+
+ls -la = lista todas as autorizações
+
+pwd = ver onde está atualmente
+
+cd e nome da pasta = ir a um destino
+
+cd ..= voltar a pagina anterior
+
+cd = volta pra raiz
+
+mkdir = cria uma nova pasta
+
+rmdir = exclui uma pasta
+
+clear = limpa todo o terminal
+
+mv = renomear o nome da pasta
+

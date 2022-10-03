@@ -1,0 +1,30 @@
+06.09.22
+
+node --version
+
+	JAVASCRIPT
+
+node é um freemework de Javascript
+ECMASCRIPT
+
+Tipagem - Tipo de variável
+
+Wordpress
+
+index.js
+
+index.html
+
+let é variável no JS
+
+ALERT (Para escrever o que eu quero, e aparece direto na pasta com o símbolo do google) - escrever
+
+CONSOLE.LOG - Caixa de diálogo
+
+run code (aparece em baixo o que estou fazendo tipo no portugol)
+
+prompit é o leia no JS
+
+alert é o escreva (caixa de diálogo)
+
+console.log (escreva)
